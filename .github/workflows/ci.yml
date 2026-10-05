@@ -1,0 +1,86 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Typecheck · Lint · Test · Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install (exact lockfile)
+        run: npm ci
+
+      - name: License allowlist (ADR-0002 / ADR-0003)
+        # Zero-dependency gate over npm's native SBOM. Permissive licenses only;
+        # MPL-2.0 allowed for unmodified build-time tooling per ADR-0003. Any
+        # license outside the allowlist fails the build and needs an ADR first.
+        run: node scripts/check-licenses.mjs
+
+      - name: Authorization call path (ADR-0037)
+        # No Edge Function may decide authorization by reading a grant table. pgTAP cannot execute
+        # an Edge Function, so this check — not the suite — is what holds that boundary.
+        run: node scripts/check-authz-call-path.mjs
+
+      - name: Every control has a browser test (I49 — no new gaps beyond e2e/coverage-baseline.json)
+        run: node scripts/check-e2e-coverage.mjs --gate
+
+      - name: Dependency audit
+        run: npm audit --audit-level=high
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Lint
+        run: npm run lint
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Typecheck Edge Functions (Deno)
+        # `npm run typecheck` covers src/ only — the functions are Deno and were never compiled by
+        # anything until `supabase functions deploy`. A deleted variable still referenced 120 lines
+        # later therefore reached production as a bare 500 (which the browser reported as a CORS
+        # error, since an uncaught throw never attaches the CORS headers). This is that gap.
+        run: deno check supabase/functions/_shared/*.ts supabase/functions/*/index.ts
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
+
+  database:
+    name: Migrations + pgTAP (RLS / invariants / append-only)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Postgres 16 + pgTAP
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q postgresql-16 postgresql-16-pgtap \
+            libtap-parser-sourcehandler-pgtap-perl
+          sudo service postgresql start
+      - name: Verify (fresh DB → stubs → migrations → pgTAP)
+        run: bash scripts/db/verify.sh
+
+  # Placeholder: Playwright e2e job is added with the first e2e suite — M11.

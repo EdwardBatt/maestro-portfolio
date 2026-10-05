@@ -1,0 +1,26 @@
+---
+description: Maestro canonical project rules — always apply
+alwaysApply: true
+---
+
+Read and obey `AGENTS.md` at the repository root. It is the canonical, binding ruleset for
+this project: hard boundaries (no paid or copyleft dependencies; the user owns git; no
+secrets in code; design doc v15 is frozen — changes go through ADRs in `docs/adr/`), logic
+placement (DB = invariants, Edge Functions = workflows/calculations, frontend = presentation
+only), feature-first structure under `src/features/`, naming conventions (DB snake_case
+plural tables, `timestamptz` only, RLS policy naming; TS strict, PascalCase components,
+kebab-case files), security bar (deny-by-default RLS with `tenant_id` on every table in the
+creating migration; adversarial pgTAP tests required for joint-project and portal paths;
+append-only audit tables; signed URLs for media; Zod validation at every Edge Function
+boundary), i18n/RTL from the first screen, and testing requirements.
+
+Shared project memory is in `docs/memory/` — the same store every AI tool on this repository
+reads and writes; there is no Cursor-specific memory. Start a task with
+`docs/memory/README.md`, then `docs/memory/MAP.md` to find the one capsule that matters, then
+the source it names. Never load the whole vault. Current source code beats any note: if they
+disagree, fix the note. Write durable findings back (`traps.md`, `STATE.md`, the capsule) — but
+a decision becomes an ADR, never a memory note. See `AGENTS.md` §9.
+
+If any generated suggestion conflicts with `AGENTS.md`, follow `AGENTS.md`. Decisions that
+change rules, stack, or schema shape require an ADR first. Reference `docs/TASKS.md` task IDs
+in commit messages. Never commit or push — the user handles all git operations.

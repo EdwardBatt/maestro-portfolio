@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Supabase local
+supabase/.temp
+supabase/.branches
+
+# Bridge-sync scratch files (never commit)
+/tmp-*
+
+# FUSE mount artifacts (cloud-session file handles) — never real files
+.fuse_hidden*
+
+# Agent worktrees (transient, created by Claude Code isolation)
+.claude/worktrees/
+
+# Office lock files (created when a .docx/.pptx is open)
+~$*
+**/~$*
+
+# One-off SQL and scratch output written for a task, not part of the app (Edward, 8 Sep).
+# Kept locally so it can be re-run; script 03 is a destructive delete and should not drift in.
+/Claude outputs/
+
+# Playwright local run — per-role sessions and reports (docs/E2E-PLAN.md)
+e2e/.auth/
+playwright-report/
+test-results/

@@ -1,0 +1,28 @@
+* { box-sizing: border-box; }
+body { margin: 0; font: 12px system-ui, sans-serif; background: #16181d; color: #e6e6e6; }
+.bar { padding: 8px 12px; background: #22252c; position: sticky; top: 0; z-index: 10; }
+.bar a { color: #8ab4ff; }
+
+.sidebar { display: flex; flex-direction: column; justify-content: center; padding-inline: 8px; background: #1d2026; border-block-end: 1px solid #2b2f37; overflow: hidden; }
+.rname { font-weight: 600; white-space: nowrap; }
+.rdept { color: #8a919e; font-size: 10px; white-space: nowrap; }
+.rowbody { border-block-end: 1px solid #2b2f37; }
+
+.booking { height: 22px; line-height: 22px; padding-inline: 6px; border-radius: 4px; background: #3563b8; color: #fff; overflow: hidden; white-space: nowrap; font-size: 11px; border: 1px solid #4a7ad1; width: 100%; }
+.blackout { background: repeating-linear-gradient(45deg, #3a3126, #3a3126 6px, #2e2820 6px, #2e2820 12px); pointer-events: none; z-index: 0; }
+.create-ghost { position: absolute; inset-block: 2px; width: 0; background: #4a7ad180; border: 1px dashed #8ab4ff; z-index: 5; }
+
+/* vis-timeline dark tweaks */
+.vis-timeline { border-color: #2b2f37; }
+.vis-item { background-color: #3563b8; border-color: #4a7ad1; color: #fff; font-size: 11px; }
+.vis-item.blackout { background: repeating-linear-gradient(45deg, #3a312666, #3a312666 6px, #2e282066 6px, #2e282066 12px); }
+.vis-label { color: #e6e6e6; }
+.vis-panel, .vis-labelset .vis-label { border-color: #2b2f37; }
+.vis-time-axis .vis-text { color: #8a919e; }
+
+/* time axis (hand-built for dnd-timeline — headless has none) */
+.timeaxis { display: flex; position: sticky; top: 33px; z-index: 8; background: #1a1d23; border-block-end: 1px solid #2b2f37; height: 30px; }
+.timeaxis-corner { background: #1d2026; }
+.timeaxis-track { position: relative; flex: 1; overflow: hidden; }
+.tick { position: absolute; inset-block: 0; border-inline-start: 1px solid #2b2f37; padding-inline-start: 4px; color: #8a919e; font-size: 10px; display: flex; align-items: center; white-space: nowrap; }
+.tick.day { color: #e6e6e6; font-weight: 600; border-inline-start-color: #454b56; }

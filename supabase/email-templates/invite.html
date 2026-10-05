@@ -1,0 +1,47 @@
+<!-- Maestro invitation email (ADR-0012: code-based, no magic link).
+     Paste into Supabase → Authentication → Email Templates → "Invite user".
+     Uses {{ .Token }} (the numeric code) and {{ .SiteURL }}. The link is a plain,
+     token-less page URL (scanner-safe); the CODE is what the user types. -->
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Maestro Invitation</title></head>
+<body style="margin:0; padding:0; background:#f4f5f9; font-family: 'Inter',system-ui,-apple-system,'Segoe UI','Noto Naskh Arabic',sans-serif; color:#16181d;">
+  <div style="display:none; max-height:0; overflow:hidden; opacity:0;">Your Maestro sign-up code &middot; رمز إنشاء حسابك في Maestro</div>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f5f9; padding:24px 0;">
+    <tr><td align="center">
+      <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px; width:100%; background:#ffffff; border:1px solid #e6e8ef; border-radius:16px; overflow:hidden;">
+        <!-- header -->
+        <tr><td style="background:#614cff; padding:20px 32px;">
+          <span style="color:#ffffff; font-size:20px; font-weight:700; letter-spacing:0.3px;">Maestro</span>
+          <span style="color:#d9d3ff; font-size:13px; display:block; margin-top:3px;">Traffic &amp; Resource Management &middot; نظام إدارة حركة العمل والموارد</span>
+        </td></tr>
+        <!-- English -->
+        <tr><td dir="ltr" style="padding:28px 32px 8px 32px; text-align:left;">
+          <h1 style="margin:0 0 12px 0; font-size:19px; color:#16181d;">You&rsquo;re invited to Maestro</h1>
+          <p style="margin:0 0 8px 0; font-size:14px; line-height:1.55;">You&rsquo;ve been invited to set up your Maestro account. Open the set-up screen, enter your email, and use this code to choose your password:</p>
+          <div style="margin:16px 0; padding:16px; background:#f7f8fc; border:1px solid #e6e8ef; border-radius:12px; text-align:center;">
+            <span style="font-size:30px; font-weight:700; letter-spacing:0.35em; color:#4b38d6;">{{ .Token }}</span>
+          </div>
+          <p style="margin:0 0 8px 0; font-size:13px; line-height:1.55; color:#5a6472;">Set-up screen: <a href="{{ .SiteURL }}/set-password?flow=invite&email={{ .Email }}" style="color:#614cff;">{{ .SiteURL }}/set-password</a></p>
+          <p style="margin:12px 0 0 0; font-size:13px; line-height:1.55; color:#5a6472;">The system is being released module by module — we&rsquo;ll email updates as each part goes live. This code can be used once and expires shortly.</p>
+        </td></tr>
+        <tr><td style="padding:8px 32px;"><hr style="border:none; border-top:1px solid #e6e8ef; margin:0;"></td></tr>
+        <!-- Arabic -->
+        <tr><td dir="rtl" style="padding:8px 32px 28px 32px; text-align:right;">
+          <h1 style="margin:0 0 12px 0; font-size:19px; color:#16181d;">لقد تمت دعوتك إلى Maestro</h1>
+          <p style="margin:0 0 8px 0; font-size:15px; line-height:1.75;">تمت دعوتك لإنشاء حسابك في Maestro. افتح شاشة الإعداد، وأدخل بريدك الإلكتروني، واستخدم هذا الرمز لاختيار كلمة المرور:</p>
+          <div style="margin:16px 0; padding:16px; background:#f7f8fc; border:1px solid #e6e8ef; border-radius:12px; text-align:center;">
+            <span style="font-size:30px; font-weight:700; letter-spacing:0.35em; color:#4b38d6;">{{ .Token }}</span>
+          </div>
+          <p style="margin:0 0 8px 0; font-size:13px; line-height:1.75; color:#5a6472;">شاشة الإعداد: <a href="{{ .SiteURL }}/set-password?flow=invite&email={{ .Email }}" style="color:#614cff;">{{ .SiteURL }}/set-password</a></p>
+          <p style="margin:12px 0 0 0; font-size:13px; line-height:1.75; color:#5a6472;">يُطلَق النظام على مراحل، وسنرسل إليك التحديثات مع إصدار كل وحدة. يمكن استخدام هذا الرمز مرة واحدة وتنتهي صلاحيته قريبًا.</p>
+        </td></tr>
+        <!-- footer -->
+        <tr><td style="background:#f7f8fc; padding:16px 32px; border-top:1px solid #e6e8ef;">
+          <p style="margin:0; font-size:12px; line-height:1.5; color:#949aa6;">If you weren&rsquo;t expecting this invitation, you can ignore this email. &middot; إذا لم تكن تتوقع هذه الدعوة، يمكنك تجاهل هذه الرسالة.</p>
+        </td></tr>
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>

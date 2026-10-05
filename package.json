@@ -1,0 +1,57 @@
+{
+  "name": "maestro",
+  "private": true,
+  "version": "0.7.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "e2e": "playwright test",
+    "e2e:local": "playwright test -c playwright.local.config.ts",
+    "format": "prettier --write .",
+    "typecheck": "tsc -b",
+    "gen:types": "supabase gen types typescript --local",
+    "check:licenses": "node scripts/check-licenses.mjs",
+    "check:authz": "node scripts/check-authz-call-path.mjs",
+    "check:e2e-coverage": "node scripts/check-e2e-coverage.mjs --gate"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "5.3.0",
+    "@supabase/supabase-js": "^2.110.9",
+    "@tanstack/react-query": "^5.101.4",
+    "@tanstack/react-table": "^8.21.3",
+    "i18next": "^26.3.6",
+    "mammoth": "^1.12.1",
+    "pdfjs-dist": "^6.3.289",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-i18next": "^17.0.11",
+    "react-router": "^8.3.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "@vitest/coverage-v8": "^4.1.10",
+    "jsdom": "^30.0.0",
+    "oxlint": "^1.71.0",
+    "prettier": "^3.9.6",
+    "supabase": "^2.110.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1",
+    "vitest": "^4.1.10"
+  },
+  "description": "Maestro — Resource & Traffic Management Platform: resource-first scheduling with SLAs, accountability, and multi-tenancy",
+  "engines": {
+    "node": ">=24"
+  }
+}

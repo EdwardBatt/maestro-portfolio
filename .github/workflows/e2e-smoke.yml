@@ -1,0 +1,47 @@
+name: E2E Smoke
+
+# Opt-in, manual — runs the Playwright smoke (L5.1) against a DEPLOYED URL.
+# Kept separate from ci.yml so it never blocks the main pipeline. Wire repo
+# secrets before first use:
+#   E2E_BASE_URL              deployed target (Vercel preview or prod)  [required]
+#   E2E_EMAIL / E2E_PASSWORD  a test account with a password            [optional → authed smoke]
+#   E2E_CREATIVE_EMAIL / E2E_CREATIVE_PASSWORD  a team-member account    [optional → role-leakage]
+# Prefer a STAGING project over prod so the authed test never touches live data.
+on:
+  workflow_dispatch:
+    inputs:
+      base_url:
+        description: 'Target URL (overrides the E2E_BASE_URL secret)'
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    name: Playwright smoke
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Run smoke
+        env:
+          CI: 'true'
+          E2E_BASE_URL: ${{ github.event.inputs.base_url || secrets.E2E_BASE_URL }}
+          E2E_EMAIL: ${{ secrets.E2E_EMAIL }}
+          E2E_PASSWORD: ${{ secrets.E2E_PASSWORD }}
+          E2E_CREATIVE_EMAIL: ${{ secrets.E2E_CREATIVE_EMAIL }}
+          E2E_CREATIVE_PASSWORD: ${{ secrets.E2E_CREATIVE_PASSWORD }}
+        run: npm run e2e
+      - uses: actions/upload-artifact@v4
+        if: ${{ !cancelled() }}
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 7

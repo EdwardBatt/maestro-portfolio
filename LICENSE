@@ -1,0 +1,12 @@
+Proprietary License — All Rights Reserved
+
+Copyright (c) 2026 Edward Batt.
+
+This software and its source code are proprietary. No part of this repository
+may be copied, modified, distributed, sublicensed, or used to create derivative
+works without prior written permission from the copyright holder.
+
+Reference systems (LibreBooking, Worklenz) were used as design references only;
+no copyleft-licensed source code is included in or was used as a foundation for
+this codebase. All third-party dependencies are permissively licensed or
+commercially licensed (see package.json and docs/TASKS.md item 0.1.6).

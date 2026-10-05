@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3478.8459"
+   height="1444.6001"
+   viewBox="0 0 920.44464 382.21712"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="E2Eflow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="0.45308101"
+     inkscape:cx="1648.7118"
+     inkscape:cy="808.90612"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="-9.5553798"
+       originy="-7.7828646"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Heading"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.5553818,-7.7828748)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:8.46667px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.499999"
+       x="9.1678085"
+       y="14.261035"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:8.46667px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="9.1678085"
+         y="14.261035">End-To-End Accountabiltiy Workflow</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Description"
+     transform="translate(-9.5553818,-7.7828748)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.35px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.499999"
+       x="9.1678085"
+       y="22.256416"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:6.35px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="9.1678085"
+         y="22.256416">Client Request to Measured Close - Each Step in the land of accountable user, system represents underlying engine</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.685119;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10,25.219387 H 930.00002"
+       id="path2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Lanes"
+     transform="translate(-9.5553818,-7.7828748)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#cccccc;stroke:none;stroke-width:0.67763;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="900"
+       height="60"
+       x="30"
+       y="30"
+       ry="0.48019403" />
+    <rect
+       style="fill:#cccccc;stroke:none;stroke-width:0.67763;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-76"
+       width="900"
+       height="60"
+       x="30"
+       y="150"
+       ry="0.48019403" />
+    <rect
+       style="fill:#cccccc;stroke:none;stroke-width:0.487077;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-76-9"
+       width="465"
+       height="60"
+       x="30"
+       y="270"
+       ry="0.48019403" />
+    <rect
+       style="fill:#cccccc;stroke:none;stroke-width:0.67763;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-76-2"
+       width="900"
+       height="60"
+       x="30"
+       y="270"
+       ry="0.48019403" />
+    <rect
+       style="fill:#ececec;stroke:none;stroke-width:0.67763;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7"
+       width="900"
+       height="60"
+       x="30"
+       y="90"
+       ry="0.48019403" />
+    <rect
+       style="fill:#ececec;stroke:none;stroke-width:0.67763;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-6"
+       width="900"
+       height="60"
+       x="30"
+       y="210"
+       ry="0.48019403" />
+    <rect
+       style="fill:#ececec;stroke:none;stroke-width:0.67763;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-6-7"
+       width="900"
+       height="60"
+       x="30.000008"
+       y="330"
+       ry="0.48019403" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="-78.326942"
+       y="24.095585"
+       id="text3"
+       transform="rotate(-90.958141)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-78.326942"
+         y="24.095585">Client (portal)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="-130.25755"
+       y="13.872088"
+       id="text3-8"
+       transform="rotate(-90.958141)"><tspan
+         sodipodi:role="line"
+         id="tspan3-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-130.25755"
+         y="13.872088">Accounts </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-130.25755"
+         y="21.809587"
+         id="tspan4">Management</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="-200.11209"
+       y="18.947216"
+       id="text3-8-2"
+       transform="rotate(-90.958141)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-200.11209"
+         y="18.947216"
+         id="tspan4-1">Creative</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:0;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="-250.46266"
+       y="15.729021"
+       id="text3-8-2-7"
+       transform="rotate(-90.958141,1.2844478,-1.4250644)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-250.46266"
+         y="15.729021"
+         id="tspan4-1-9">Team Lead</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:0;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="-250.46266"
+       y="15.729021"
+       id="text3-8-2-7-1"
+       transform="rotate(-90.958141,31.911605,32.400171)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-250.46266"
+         y="15.729021"
+         id="tspan4-1-9-3">System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:0;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="-250.46266"
+       y="15.729021"
+       id="text3-8-2-7-1-2"
+       transform="matrix(-0.02481871,-0.99986018,1.4839935,-0.01672194,-7.2727404,124.88571)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.5"
+         x="-250.46266"
+         y="15.729021"
+         id="tspan4-1-9-3-8">SLA Clock</tspan></text>
+    <path
+       style="opacity:0.679211;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100,355 10,10 -10,9.99998 z"
+       id="path11" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Checkpoints"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:0.6;fill:#5fd35f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-8-0-7"
+       width="65"
+       height="30.000002"
+       x="576.67859"
+       y="158.73529"
+       ry="5.000001" />
+    <rect
+       style="display:inline;opacity:0.679211;fill:#a34ca3;fill-opacity:1;stroke:#9000a9;stroke-width:0.535292;stroke-dasharray:2.14117, 0.535292;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5-7-0"
+       width="74.500008"
+       height="30.000002"
+       x="355.44464"
+       y="227.21713"
+       ry="5.000001" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#800080;stroke:none;stroke-width:0.528058;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-5"
+       width="72.500008"
+       height="30.000002"
+       x="298.13159"
+       y="204.3284"
+       ry="5.000001" />
+    <rect
+       style="display:inline;opacity:0.679211;fill:none;fill-opacity:1;stroke:#9000a9;stroke-width:1.2762;stroke-dasharray:5.10482, 1.2762;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5-7-0-3"
+       width="465"
+       height="123.8962"
+       x="289.06601"
+       y="146.6631"
+       ry="20.64937" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7"
+       width="65"
+       height="30.000002"
+       x="662.62024"
+       y="215.74265"
+       ry="5.000001" />
+    <rect
+       style="opacity:0.6;fill:#2ad4ff;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-8"
+       width="65"
+       height="30.000002"
+       x="102.94462"
+       y="97.217133"
+       ry="5.000001" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.612372;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-94-3"
+       width="65"
+       height="44.999977"
+       x="802.94464"
+       y="272.21713"
+       ry="7.4999971" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="311.13358"
+       y="215.19403"
+       id="text5-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="311.13358"
+         y="215.19403">Book Resources</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="580.62225"
+       y="171.58983"
+       id="text5-0-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-7"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="580.62225"
+         y="171.58983">Produce Deliverable</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="670.69135"
+       y="226.06067"
+       id="text5-0-1-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-7-6"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="670.69135"
+         y="226.06067">Internal Review</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="812.3479"
+       y="281.66849"
+       id="text5-0-1-3-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-7-6-0"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="812.3479"
+         y="281.66849">Roll Up Reporting</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="377.46613"
+       y="237.65378"
+       id="text5-0-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-4"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="377.46613"
+         y="237.65378">Peer Tenant </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.17041px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:69.9792;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.485858;stroke-dasharray:none;stroke-opacity:1"
+       x="370.93564"
+       y="239.25348"
+       id="text6-91-0"
+       transform="matrix(0.97171742,0,0,1.0291058,36.139936,-0.47448765)"><tspan
+         x="370.93564"
+         y="239.25348"
+         id="tspan13"><tspan
+           style="stroke-width:0.485859"
+           id="tspan11">Partner Allocates resources</tspan><tspan
+           y="239.25348"
+           id="tspan14"> </tspan></tspan><tspan
+         x="370.93564"
+         y="246.96649"
+         id="tspan16"><tspan
+           style="stroke-width:0.485859"
+           id="tspan15">on shared work
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="333.58444"
+       y="221.74268"
+       id="text6-91-0-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="333.58444"
+         y="221.74268"
+         id="tspan9-1-8">Capacity Check/Warning</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="333.58444"
+         y="229.68018"
+         id="tspan10-7">Time Allocation Sub-Flow</tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#800080;stroke:none;stroke-width:0.642514;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-5-1"
+       width="72.500008"
+       height="44.414272"
+       x="499.99179"
+       y="204.80286"
+       ry="7.4023795" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="511.44464"
+       y="214.21713"
+       id="text5-0-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-1"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="511.44464"
+         y="214.21713">Confirm Resources</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:68;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="535.44464"
+       y="222.21713"
+       id="text6-91-0-0-6"><tspan
+         x="535.44464"
+         y="222.21713"
+         id="tspan18"><tspan
+           style="stroke-width:0.5"
+           id="tspan17">Booked Resources</tspan><tspan
+           y="222.21713"
+           id="tspan19"> </tspan></tspan><tspan
+         x="535.44464"
+         y="230.15463"
+         id="tspan22"><tspan
+           style="stroke-width:0.5"
+           id="tspan21">confirmed, work</tspan><tspan
+           y="230.15463"
+           id="tspan23"> </tspan></tspan><tspan
+         x="535.44464"
+         y="238.09213"
+         id="tspan25"><tspan
+           style="stroke-width:0.5"
+           id="tspan24">commences</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:55.3761;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="387.75659"
+       y="174.20978"
+       id="text6-91-0-0-4"
+       transform="translate(219.20698,3.0510302)"><tspan
+         x="387.75659"
+         y="174.20978"
+         id="tspan27"><tspan
+           style="stroke-width:0.5"
+           id="tspan26">Assigned Resource</tspan><tspan
+           y="174.20978"
+           id="tspan28"> </tspan></tspan><tspan
+         x="387.75659"
+         y="182.14728"
+         id="tspan31"><tspan
+           style="stroke-width:0.5"
+           id="tspan30">create deliverables</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.17041px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:69.9792;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.485858;stroke-dasharray:none;stroke-opacity:1"
+       x="370.93564"
+       y="239.25348"
+       id="text6-91-0-4"
+       transform="matrix(0.97171743,0,0,1.0291058,335.7971,-14.593109)"><tspan
+         x="370.93564"
+         y="239.25348"
+         id="tspan33"><tspan
+           style="stroke-width:0.485859"
+           id="tspan32">Internal QA before client</tspan><tspan
+           y="239.25348"
+           id="tspan34"> </tspan></tspan><tspan
+         x="370.93564"
+         y="246.96649"
+         id="tspan36"><tspan
+           style="stroke-width:0.485859"
+           id="tspan35">revision loop
+</tspan></tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.61356;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-1"
+       width="65"
+       height="45.174953"
+       x="427.62024"
+       y="204.04218"
+       ry="7.52916" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="438.99377"
+       y="212.66849"
+       id="text5-0-1-3-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-7-6-6"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="438.99377"
+         y="212.66849">Internal Review</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.17041px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:51.8729;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.485858;stroke-dasharray:none;stroke-opacity:1"
+       x="370.93564"
+       y="239.25348"
+       id="text6-91-0-4-9"
+       transform="matrix(0.97171743,0,0,1.0291058,98.999143,-27.000014)"><tspan
+         x="370.93564"
+         y="239.25348"
+         id="tspan38"><tspan
+           style="stroke-width:0.485859"
+           id="tspan37">Review Project</tspan><tspan
+           y="239.25348"
+           id="tspan39"> </tspan></tspan><tspan
+         x="370.93564"
+         y="246.96649"
+         id="tspan41"><tspan
+           style="stroke-width:0.485859"
+           id="tspan40">schedule and costs</tspan><tspan
+           y="246.96649"
+           id="tspan42"> </tspan></tspan><tspan
+         x="370.93564"
+         y="254.6795"
+         id="tspan44"><tspan
+           style="stroke-width:0.485859"
+           id="tspan43">before confirming</tspan><tspan
+           y="254.6795"
+           id="tspan45"> </tspan></tspan><tspan
+         x="370.93564"
+         y="262.39252"
+         id="tspan47"><tspan
+           style="stroke-width:0.485859"
+           id="tspan46">with client
+</tspan></tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#800080;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-5"
+       width="65"
+       height="30.000002"
+       x="711.27563"
+       y="35.624039"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:55.3761;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="387.75659"
+       y="174.20978"
+       id="text6-91-0-0-4-7-4"
+       transform="translate(354.01881,-122.58574)"><tspan
+         x="387.75659"
+         y="174.20978"
+         id="tspan48">Audited Sign- Off</tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#800080;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7"
+       width="65"
+       height="30.000002"
+       x="631.27563"
+       y="35.624039"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:55.3761;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="387.75659"
+       y="174.20978"
+       id="text6-91-0-0-4-7"
+       transform="translate(274.01881,-120.58573)"><tspan
+         x="387.75659"
+         y="174.20978"
+         id="tspan49">portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="643.81555"
+       y="46.07539"
+       id="text5-0-1-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-7-68"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="643.81555"
+         y="46.07539">Client Review</tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#800080;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-57"
+       width="65"
+       height="30.000002"
+       x="482.94464"
+       y="37.217133"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:55.3761;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="387.75659"
+       y="174.20978"
+       id="text6-91-0-0-4-7-6"
+       transform="translate(125.7409,-113.17375)"><tspan
+         x="387.75659"
+         y="174.20978"
+         id="tspan50">portal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:49.9601;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="520.4646"
+       y="47.668484"
+       id="text5-0-1-3-0-5"
+       transform="translate(-5.9022013,-0.99999821)"><tspan
+         x="520.4646"
+         y="47.668484"
+         id="tspan52"><tspan
+           style="stroke-width:0.5"
+           id="tspan51">Client Review &amp;</tspan><tspan
+           y="47.668484"
+           id="tspan53"> </tspan></tspan><tspan
+         x="520.4646"
+         y="55.605986"
+         id="tspan55"><tspan
+           style="stroke-width:0.5"
+           id="tspan54">Approval</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="723.54071"
+       y="46.07539"
+       id="text5-0-1-3-0-1"
+       inkscape:transform-center-x="73.829832"
+       inkscape:transform-center-y="-1.5606306"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-2-7-68-5"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="723.54071"
+         y="46.07539">Client Approval</tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#800080;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="65"
+       height="30.000002"
+       x="30.444618"
+       y="32.217133"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="35.444618"
+       y="42.217133"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="35.444618"
+         y="42.217133">Client Brief/Request</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="61.444618"
+       y="49.217133"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="61.444618"
+         y="49.217133">Logs into portal</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="61.444618"
+         y="57.154633"
+         id="tspan7">Captured at Source</tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#5fd35f;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-8-0-7-0"
+       width="65"
+       height="30.000002"
+       x="803.18213"
+       y="160.10046"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:60.2349;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="674.88251"
+       y="168.81889"
+       id="text5-0-1-3-0-1-6"
+       inkscape:transform-center-x="73.829832"
+       inkscape:transform-center-y="-1.5606306"
+       transform="translate(160.56182,-1.6017627)"><tspan
+         x="674.88251"
+         y="168.81889"
+         id="tspan57"><tspan
+           style="stroke-width:0.5"
+           id="tspan56">Approved and</tspan><tspan
+           y="168.81889"
+           id="tspan58"> </tspan></tspan><tspan
+         x="674.88251"
+         y="176.75639"
+         id="tspan60"><tspan
+           style="stroke-width:0.5"
+           id="tspan59">Delivered</tspan></tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-7"
+       width="65"
+       height="30.000002"
+       x="37.5"
+       y="285"
+       ry="5.000001"
+       transform="translate(-9.5553818,-7.7828749)" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.612371;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-9"
+       width="65"
+       height="45"
+       x="102.94463"
+       y="267.21713"
+       ry="7.500001" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.577349;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-6"
+       width="65"
+       height="40.000004"
+       x="182.94463"
+       y="267.21713"
+       ry="6.6666679" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.577349;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-0"
+       width="65"
+       height="39.999996"
+       x="297.94464"
+       y="277.21713"
+       ry="6.666667" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.577349;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-0-0"
+       width="65"
+       height="39.999996"
+       x="497.94464"
+       y="277.21713"
+       ry="6.666667" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-8-0"
+       width="65"
+       height="30.000002"
+       x="187.94463"
+       y="97.217133"
+       ry="5.000001" />
+    <rect
+       style="display:inline;opacity:0.6;fill:#deaa87;stroke:none;stroke-width:0.589601;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-7-0-7-94"
+       width="65"
+       height="41.715591"
+       x="662.94464"
+       y="277.21713"
+       ry="6.9525995" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="192.12155"
+       y="104.90598"
+       id="text5-0"><tspan
+         sodipodi:role="line"
+         id="tspan5-6"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="192.12155"
+         y="104.90598">Client Brief/Request</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="107.56382"
+       y="106.03603"
+       id="text5-8"><tspan
+         sodipodi:role="line"
+         id="tspan5-9"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="107.56382"
+         y="106.03603">Client Brief/Request</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="220.44463"
+       y="112.21713"
+       id="text6-91"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="220.44463"
+         y="112.21713"
+         id="tspan7-5">Strategy set once</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="220.44463"
+         y="120.15463"
+         id="tspan9">Discipline briefs inherit</tspan></text>
+    <rect
+       style="display:inline;opacity:0.6;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5-8-0-3"
+       width="65"
+       height="30.000002"
+       x="425.92105"
+       y="99.47493"
+       ry="5.000001" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="432.80688"
+       y="106.66849"
+       id="text5-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan5-6-6"
+         style="fill:#1a1a1a;stroke-width:0.5"
+         x="432.80688"
+         y="106.66849">Detailed Proposal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:57.3913;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="446.74899"
+       y="113.09853"
+       id="text6-91-7"
+       transform="translate(11.672063,1.3764018)"><tspan
+         x="446.74899"
+         y="113.09853"
+         id="tspan62"><tspan
+           style="stroke-width:0.5"
+           id="tspan61">Confirm offer with</tspan><tspan
+           y="113.09853"
+           id="tspan63"> </tspan></tspan><tspan
+         x="446.74899"
+         y="121.03603"
+         id="tspan65"><tspan
+           style="stroke-width:0.5"
+           id="tspan64">client</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="135.44463"
+       y="112.21713"
+       id="text6-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="135.44463"
+         y="112.21713"
+         id="tspan7-3">AM Owns Relationship</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.35px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="135.44463"
+         y="120.15463"
+         id="tspan8">Campaign vs. Standalone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="30.44462"
+       y="287.21713"
+       id="text6-9-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="30.44462"
+         y="287.21713"
+         id="tspan7-3-7">Brief Logged</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="30.44462"
+         y="293.39075"
+         id="tspan8-6">Notification to Accounts</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.5"
+         x="30.44462"
+         y="299.56436"
+         id="tspan29">Dashboards Updated</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="100.44462"
+       y="287.21713"
+       id="text6-9-9-0"
+       transform="translate(87.129237,-11.572414)"><tspan
+         x="100.44462"
+         y="287.21713"
+         id="tspan67"><tspan
+           style="stroke-width:0.5"
+           id="tspan66">Brief approved and sent to  </tspan></tspan><tspan
+         x="100.44462"
+         y="293.39074"
+         id="tspan69"><tspan
+           style="stroke-width:0.5"
+           id="tspan68">team/teams for resource </tspan></tspan><tspan
+         x="100.44462"
+         y="299.56436"
+         id="tspan71"><tspan
+           style="stroke-width:0.5"
+           id="tspan70">booking and allocation
+</tspan></tspan><tspan
+         x="100.44462"
+         y="305.73797"
+         id="tspan73"><tspan
+           style="stroke-width:0.5"
+           id="tspan72">Dashboards updated
+</tspan></tspan><tspan
+         x="100.44462"
+         y="311.91159"
+         id="tspan75"><tspan
+           style="stroke-width:0.5"
+           id="tspan74">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="100.44462"
+       y="287.21713"
+       id="text6-9-9-0-5"
+       transform="translate(204.99931)"><tspan
+         x="100.44462"
+         y="287.21713"
+         id="tspan77"><tspan
+           style="stroke-width:0.5"
+           id="tspan76">Resources assigned as </tspan></tspan><tspan
+         x="100.44462"
+         y="293.39074"
+         id="tspan79"><tspan
+           style="stroke-width:0.5"
+           id="tspan78">placeholder bookings
+</tspan></tspan><tspan
+         x="100.44462"
+         y="299.56436"
+         id="tspan81"><tspan
+           style="stroke-width:0.5"
+           id="tspan80">Costs entered
+</tspan></tspan><tspan
+         x="100.44462"
+         y="305.73797"
+         id="tspan83"><tspan
+           style="stroke-width:0.5"
+           id="tspan82">Dashboards updated
+</tspan></tspan><tspan
+         x="100.44462"
+         y="311.91159"
+         id="tspan85"><tspan
+           style="stroke-width:0.5"
+           id="tspan84">Detailed offer generated
+</tspan></tspan><tspan
+         x="100.44462"
+         y="318.0852"
+         id="tspan87"><tspan
+           style="stroke-width:0.5"
+           id="tspan86">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="100.44462"
+       y="287.21713"
+       id="text6-9-9-0-5-5"
+       transform="translate(404.99932,-1.5724143)"><tspan
+         x="100.44462"
+         y="287.21713"
+         id="tspan89"><tspan
+           style="stroke-width:0.5"
+           id="tspan88">Resources committed
+</tspan></tspan><tspan
+         x="100.44462"
+         y="293.39074"
+         id="tspan91"><tspan
+           style="stroke-width:0.5"
+           id="tspan90">Progress vs baseline tracking </tspan></tspan><tspan
+         x="100.44462"
+         y="299.56436"
+         id="tspan93"><tspan
+           style="stroke-width:0.5"
+           id="tspan92">starts
+</tspan></tspan><tspan
+         x="100.44462"
+         y="305.73797"
+         id="tspan95"><tspan
+           style="stroke-width:0.5"
+           id="tspan94">Dashboards updated daily
+</tspan></tspan><tspan
+         x="100.44462"
+         y="311.91159"
+         id="tspan97"><tspan
+           style="stroke-width:0.5"
+           id="tspan96">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="100.44462"
+       y="287.21713"
+       id="text6-9-9-0-9"
+       transform="matrix(1,0,0,0.99391451,7.1995251,-9.8454156)"><tspan
+         x="100.44462"
+         y="287.21713"
+         id="tspan99"><tspan
+           style="stroke-width:0.5"
+           id="tspan98">Brief review and clarified with </tspan></tspan><tspan
+         x="100.44462"
+         y="293.39074"
+         id="tspan101"><tspan
+           style="stroke-width:0.5"
+           id="tspan100">client.
+</tspan></tspan><tspan
+         x="100.44462"
+         y="299.56436"
+         id="tspan103"><tspan
+           style="stroke-width:0.5"
+           id="tspan102">Select Template
+</tspan></tspan><tspan
+         x="100.44462"
+         y="305.73797"
+         id="tspan105"><tspan
+           style="stroke-width:0.5"
+           id="tspan104">AI Converts to selected brief </tspan></tspan><tspan
+         x="100.44462"
+         y="311.91159"
+         id="tspan107"><tspan
+           style="stroke-width:0.5"
+           id="tspan106">template
+</tspan></tspan><tspan
+         x="100.44462"
+         y="318.0852"
+         id="tspan109"><tspan
+           style="stroke-width:0.5"
+           id="tspan108">Brief Review and approved</tspan></tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d71900;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 482.94464,52.217131 -82.50002,3e-6 V 217.21713 h 25"
+       id="path18" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 490.44463,112.21713 v 0 h 25 V 67.217133"
+       id="path19" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 530.44462,67.217133 V 202.21713"
+       id="path20" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ca1919;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 680.44463,215.78145 -2e-5,-43.56432 -38.99998,0"
+       id="path24"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ca1919;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 630.44463,52.217134 h -15.00002 v 104.999996 0"
+       id="path25" />
+    <path
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:1;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 60.44462,62.217133 V 277.21713"
+       id="path28" />
+    <path
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:0.966092;stroke-dasharray:0.966092, 2.89828;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 135.44462,127.21713 v 140"
+       id="path29" />
+    <path
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:0.966092;stroke-dasharray:0.966092, 2.89828;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 210.44462,127.21713 v 140"
+       id="path29-3" />
+    <path
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:0.966092;stroke-dasharray:0.966092, 2.89828;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 325.44463,232.21713 0,46.64693"
+       id="path29-3-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:0.966092;stroke-dasharray:0.966092, 2.89828;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 530.44463,248.89366 0,28.32347"
+       id="path29-3-0-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:0.966092;stroke-dasharray:0.966092, 2.89828;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 695.12024,245.74265 0.32439,31.47448"
+       id="path29-3-0-0-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:#00aa00;stroke-width:0.966092;stroke-dasharray:0.966092, 2.89828;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 835.28244,190.42155 0.1622,81.79558"
+       id="path29-3-0-0-4-6"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="SLA Clock"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Connectors" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.0616;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 95.428098,47.23238 H 134.8973 v 49.969197"
+     id="path12" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 138.05568,94.135243 -3.22212,3.222113 -3.22211,-3.222113 z"
+     id="path13" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 185.83356,108.91313 3.22212,3.22212 -3.22212,3.22211 z"
+     id="path13-2" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+     x="100.44462"
+     y="287.21713"
+     id="text6-9-9-0-5-5-7"
+     transform="translate(565.74979,-2.500005)"><tspan
+       x="100.44462"
+       y="287.21713"
+       id="tspan111"><tspan
+         style="stroke-width:0.5"
+         id="tspan110">During review process version </tspan></tspan><tspan
+       x="100.44462"
+       y="293.39074"
+       id="tspan113"><tspan
+         style="stroke-width:0.5"
+         id="tspan112">tracking is enforce for </tspan></tspan><tspan
+       x="100.44462"
+       y="299.56436"
+       id="tspan115"><tspan
+         style="stroke-width:0.5"
+         id="tspan114">revisions
+</tspan></tspan><tspan
+       x="100.44462"
+       y="305.73797"
+       id="tspan117"><tspan
+         style="stroke-width:0.5"
+         id="tspan116">Number of revisions count </tspan></tspan><tspan
+       x="100.44462"
+       y="311.91159"
+       id="tspan119"><tspan
+         style="stroke-width:0.5"
+         id="tspan118">updated, users reminded of </tspan></tspan><tspan
+       x="100.44462"
+       y="318.0852"
+       id="tspan121"><tspan
+         style="stroke-width:0.5"
+         id="tspan120">revision limits if applicable. 
+</tspan></tspan><tspan
+       x="100.44462"
+       y="324.25881"
+       id="tspan123"><tspan
+         style="stroke-width:0.5"
+         id="tspan122">
+</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:Dubai;-inkscape-font-specification:'Dubai, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:60;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+     x="100.44462"
+     y="287.21713"
+     id="text6-9-9-0-5-5-7-6"
+     transform="translate(708.94098,1.3212317)"><tspan
+       x="100.44462"
+       y="287.21713"
+       id="tspan125"><tspan
+         style="stroke-width:0.5"
+         id="tspan124">Performance reporting based </tspan></tspan><tspan
+       x="100.44462"
+       y="293.39074"
+       id="tspan127"><tspan
+         style="stroke-width:0.5"
+         id="tspan126">on SLAs
+</tspan></tspan><tspan
+       x="100.44462"
+       y="299.56436"
+       id="tspan129"><tspan
+         style="stroke-width:0.5"
+         id="tspan128">All dashboards updated
+</tspan></tspan><tspan
+       x="100.44462"
+       y="305.73797"
+       id="tspan131"><tspan
+         style="stroke-width:0.5"
+         id="tspan130">Final reports to relevant </tspan></tspan><tspan
+       x="100.44462"
+       y="311.91159"
+       id="tspan133"><tspan
+         style="stroke-width:0.5"
+         id="tspan132">departments 
+</tspan></tspan><tspan
+       x="100.44462"
+       y="318.0852"
+       id="tspan135"><tspan
+         style="stroke-width:0.5"
+         id="tspan134">
+</tspan></tspan></text>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 839.0557,156.54773 -3.22212,3.22212 -3.22211,-3.22212 z"
+     id="path13-2-8" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 167.94461,112.21713 h 17.50001"
+     id="path14" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 220.44462,127.21713 v 95 h 75"
+     id="path15" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 330.44463,237.21713 v 10 h 25"
+     id="path16" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 460.12023,204.04217 0.3244,-71.82504"
+     id="path17" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 533.66674,201.11169 -3.22212,3.22212 -3.22211,-3.22212 z"
+     id="path13-3" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 457.24606,132.76985 3.22212,-3.22212 3.22211,3.22212 z"
+     id="path13-3-6" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 607.19897,192.24068 3.22212,-3.22212 3.22211,3.22212 z"
+     id="path13-3-6-8" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#c90000;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 443.3188,203.48945 0.3244,-71.82504"
+     id="path17-5" />
+  <path
+     style="fill:#d71900;fill-opacity:1;stroke:none;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 440.44463,132.21713 3.22212,-3.22212 3.22211,3.22212 z"
+     id="path13-3-6-0" />
+  <path
+     style="fill:#d71900;fill-opacity:1;stroke:none;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 643.52652,175.57948 -3.22212,-3.22212 3.22212,-3.22211 z"
+     id="path13-3-6-0-4" />
+  <path
+     style="fill:#d71900;fill-opacity:1;stroke:none;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 618.66672,155.58252 -3.22211,3.22212 -3.22212,-3.22212 z"
+     id="path13-3-6-0-4-3" />
+  <path
+     style="fill:#d71900;fill-opacity:1;stroke:none;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 425.10583,213.99501 3.22212,3.22212 -3.22212,3.22211 z"
+     id="path13-3-6-6" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+     x="-129.2764"
+     y="528.71417"
+     id="text20"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;stroke-width:1"
+       x="-129.2764"
+       y="528.71417">APPROVED</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
+     x="424.09396"
+     y="51.147991"
+     id="text20-9"><tspan
+       sodipodi:role="line"
+       id="tspan20-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:Dubai;-inkscape-font-specification:'Dubai, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#55d400;stroke-width:1"
+       x="424.09396"
+       y="51.147991">FEEDBACK LOOP</tspan></text>
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 572.49181,227.00999 37.95281,0.20714 v -35"
+     id="path21" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 425.635,218.99501 3.22212,3.22212 -3.22212,3.22211 z"
+     id="path13-2-4" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 660.44463,228.99501 3.22212,3.22212 -3.22212,3.22211 z"
+     id="path13-2-4-7" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 295.22251,218.99501 3.22212,3.22212 -3.22212,3.22211 z"
+     id="path13-2-4-8" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 327.14062,236.82819 3.22212,-3.22212 3.22211,3.22212 z"
+     id="path13-2-6" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 370.44463,222.21713 h 54.99999"
+     id="path22" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 630.44463,189.21713 0,43 30,0"
+     id="path23"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 695.44464,52.217134 h 14.99999"
+     id="path26" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.644423;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 710.3044,48.913126 3.22212,3.22212 -3.22212,3.22211 z"
+     id="path13-2-4-87" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 775.44463,52.217134 h 59.99999 l 0.38896,105.388936"
+     id="path27"
+     sodipodi:nodetypes="ccc" />
+</svg>

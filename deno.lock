@@ -1,0 +1,40 @@
+{
+  "version": "5",
+  "redirects": {
+    "https://esm.sh/@supabase/supabase-js@2": "https://esm.sh/@supabase/supabase-js@2.112.4"
+  },
+  "remote": {
+    "https://esm.sh/@supabase/supabase-js@2.112.4": "cfaa762b66cf8717f1b32db2699c4277aa673b39417cb9be9c0b19d9c7786bd7"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@playwright/test@^1.62.0",
+        "npm:@supabase/supabase-js@^2.110.9",
+        "npm:@tanstack/react-query@^5.101.4",
+        "npm:@tanstack/react-table@^8.21.3",
+        "npm:@testing-library/jest-dom@7",
+        "npm:@testing-library/react@^16.3.2",
+        "npm:@types/node@^24.13.2",
+        "npm:@types/react-dom@^19.2.3",
+        "npm:@types/react@^19.2.17",
+        "npm:@vitejs/plugin-react@^6.0.3",
+        "npm:@vitest/coverage-v8@^4.1.10",
+        "npm:i18next@^26.3.6",
+        "npm:jsdom@30",
+        "npm:mammoth@^1.12.1",
+        "npm:oxlint@^1.71.0",
+        "npm:prettier@^3.9.6",
+        "npm:react-dom@^19.2.7",
+        "npm:react-i18next@^17.0.11",
+        "npm:react-router@^8.3.0",
+        "npm:react@^19.2.7",
+        "npm:supabase@^2.110.0",
+        "npm:typescript@~6.0.2",
+        "npm:vite@^8.1.1",
+        "npm:vitest@^4.1.10",
+        "npm:zod@^4.4.3"
+      ]
+    }
+  }
+}
